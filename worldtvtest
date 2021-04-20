@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg",Zalogic - Telegram Group: t.me/zalogic
-https://www.dropbox.com/s/xv8zuw79z2u9ucb/video_2020-09-20_17-50-52.mp4?dl=1
-#EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg",Zalogic - Supported by Zal TV Player
-https://archive.org/download/MurotalMR/001.mp3
 #EXTINF:-1 group-title="Al-Qur'an" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[002] Surah Al-Baqarah (Lembu Betina)
 https://archive.org/download/MurotalMR/002.mp3
 #EXTINF:-1 group-title="Al-Qur'an" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[003] Surah Ali 'Imran (Keluarga Imran)
@@ -710,7 +706,7 @@ https://lh3.googleusercontent.com/tNz2Z0TMrn_Vm1otCIS98qqrckizV5D-KtRPQcpGhw4GFs
 #EXTINF:-1 group-title="VoD - TV Series" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg",Servant S01E04
 https://lh3.googleusercontent.com/-jEL-Qm3_2HHkzpJyp0M94PKSh3k7zgvGY5TetcFkzD-oAFRF7hn_CKhI7AunDrzVbfXlqTk68g_H_4yuw=m22
 #EXTINF:-1 group-title="VoD - TV Series" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg",Servant S01E05
-https://lh3.googleusercontent.com/hGBP7iWGQRjtnIVio3XRzK4PrMK3bMiE_ucV3RXZlVxg7wMa7N1iWUO1QY99KQfdFwKhF5GoBSqN4Zg37A=m22
+https://lh3.googleusercontent.com/hiWGQRjtnIVio3XRzK4PrMK3bMiE_ucV3RXZlVxg7wMa7N1iWUO1QY99KQfdFwKhF5GoBSqN4Zg37A=m22
 #EXTINF:-1 group-title="VoD - TV Series" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg",Servant S01E06
 https://lh3.googleusercontent.com/K-XEcR0QByXzRI3GYvwy3DJ1zc3P5tmUF36ZZ0sRO-ZHa0ZSeodzrJypRuas_dCBeXSMowvlPws8xvtqeA=m22
 #EXTINF:-1 group-title="VoD - TV Series" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg",Servant S01E07
